@@ -1,0 +1,44 @@
+
+head img{
+	width: 1px;
+}
+
+ul {
+	list-style-type: none;
+	background-color: #141414;
+	padding-left: 350px;
+}
+
+li {
+	display: inline-block;
+	padding: 12px;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+body{
+	margin: 0;
+}
+
+body div{
+	width: 50%;
+	margin: auto auto;
+}
+
+section img{
+	width: 275px;
+	height: 183px;
+	padding: 3px;
+}
+
+h1{
+	color: #505050;
+}
+
+
+
+
+

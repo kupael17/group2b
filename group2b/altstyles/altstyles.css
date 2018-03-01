@@ -1,0 +1,56 @@
+body {
+    background-image: url(yeah.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    background-size: 100%;
+    font-family: Calibri;
+    text-align: center;    
+}
+
+head img{
+	width: auto;
+}
+
+ul {
+	list-style-type: none;
+	background-color: #141414;
+	padding-left: 350px;
+    opacity: .80;
+}
+
+li {
+	display: inline-block;
+	padding: 12px;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+
+body div{
+	width: 50%;
+	margin: auto auto;
+}
+
+section img{
+	width: 275px;
+	height: 183px;
+	padding: 3px;
+}
+
+h1{
+	color: black;
+}
+
+
+footer {
+    position: fixed;
+    top: 95%;
+}
+
+
+
